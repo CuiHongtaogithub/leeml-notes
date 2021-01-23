@@ -62,7 +62,7 @@
 - [P48 对抗机器学习模型(1)](https://datawhalechina.github.io/leeml-notes/#/chapter48/chapter48)
 
 
-# 修订记录：
+# 修订记录
 |版本|时间|作者|文档信息 |
 |---|:--:|:--:|:--|
 | v0.1 |2019.06.28|[@DatawhaleXiuyuan](https://github.com/DatawhaleXiuyuan)<br>[@hahlw](https://github.com/hahlw)<br>[@Heitao5200](https://github.com/Heitao5200)<br>[@ImayKing](https://github.com/Imay-King)<br>[@spareribs](https://github.com/spareribs)|建立初始仓库 |
